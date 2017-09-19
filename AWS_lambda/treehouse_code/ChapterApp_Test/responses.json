@@ -6,7 +6,7 @@
     },
     "AMAZON.HelpIntent":
     {
-        "ask": "Here are some things you can say: Read something on TechCrunch. What would you like to know?",
+        "ask": "Here are some things you can say: Explain Neural Networks. Information on Google. What would you like to know?",
         "reprompt": "What would you like to know?"
     },
     "AMAZON.StopIntent":
